@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="questao1">Pergunta 1/5: Cinema - Qual o nome do famoso agente secreto britânico ?</string>
+    <string name="questao2">Pergunta 2/5: Geografia - Onde está localizado o Brasil ?</string>
+    <string name="questao3">Pergunta 3/5: Curiosidades - Um ano tem 8.760 Horas ?</string>
+    <string name="questao4">Pergunta 4/5: Esportes - Quem é considerado o maior corredor da história no atletismo ?</string>
+    <string name="questao5">Pergunta 5/5: Mecânica - Quais destas opções são componentes de um carro ?</string>
+    <string name="topo">Quiz Game</string>
+    <string name="perguntaDoisA">América Central</string>
+    <string name="perguntaDoisB">Europa</string>
+    <string name="perguntaDoisC">Ásia</string>
+    <string name="perguntaDoisD">América do sul</string>
+    <string name="perguntaTresA">Sim</string>
+    <string name="perguntaTresB">Não</string>
+    <string name="perguntaQuatroA">Michael Phelps</string>
+    <string name="perguntaQuatroB">Cristiano Ronaldo</string>
+    <string name="perguntaQuatroC">Michael Johnson</string>
+    <string name="perguntaQuatroD">Usain Bolt</string>
+    <string name="perguntaCincoA">Roda</string>
+    <string name="perguntaCincoB">Volante</string>
+    <string name="perguntaCincoC">Espelho</string>
+    <string name="perguntaCincoD">Guarda Chuva</string>
+</resources>

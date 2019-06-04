@@ -1,0 +1,54 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        style="@style/perguntas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/questao4" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/michael_phelps"
+            style="@style/respostas"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/perguntaQuatroA" />
+
+        <CheckBox
+            android:id="@+id/cristiano_ronaldo"
+            style="@style/respostas"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/perguntaQuatroB" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <CheckBox
+            android:id="@+id/michael_johnson"
+            style="@style/respostas"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/perguntaQuatroC" />
+
+        <CheckBox
+            android:id="@+id/usain_bolt"
+            style="@style/respostas"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/perguntaQuatroD" />
+    </LinearLayout>
+
+</LinearLayout>
